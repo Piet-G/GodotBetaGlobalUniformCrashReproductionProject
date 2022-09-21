@@ -18,5 +18,5 @@ config/icon="res://icon.svg"
 
 tex={
 "type": "sampler2D",
-"value": "res://icon.svg"
+"value": "res://all_black.png"
 }
